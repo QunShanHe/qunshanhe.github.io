@@ -173,6 +173,18 @@ div#footer-text {
 	padding-bottom: 8px;
 }
 
+#visitor-map {
+	max-width: 100%;
+	margin: 2.5em auto 1em;
+	overflow: hidden;
+	text-align: center;
+}
+
+#visitor-map iframe,
+#visitor-map img {
+	max-width: 100%;
+}
+
 ul, ol, dl {
 	margin-top: 0.2em;
 	padding-top: 0;
@@ -378,4 +390,3 @@ table.imgtable, table.imgtable td {
 		display:none; 
 	}
 }
-  
